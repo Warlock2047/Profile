@@ -1,5 +1,3 @@
-# Profile
-
 Hi 👋 My name is Türker Bayazıt
 ===============================
 
