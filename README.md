@@ -38,11 +38,3 @@ src="https://img.shields.io/github/followers/Warlock2047?logo=github&style=for-t
 <a href="http://www.github.com/Warlock2047"><img src="https://activity-graph.herokuapp.com/graph?username=Warlock2047&bg_color=0f172a&color=facc15&line=ef4444&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Warlock2047" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warlock2047&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Warlock2047/Paris-Housing-Price" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Warlock2047&repo=Paris-Housing-Price&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Warlock2047/ House-Sales-in-King-County-USA-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Warlock2047&repo= House-Sales-in-King-County-USA-&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Warlock2047/Food-Prices-in-Turkey" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Warlock2047&repo=Food-Prices-in-Turkey&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Warlock2047/Student-Grade-Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Warlock2047&repo=Student-Grade-Prediction&title_color=ef4444&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
