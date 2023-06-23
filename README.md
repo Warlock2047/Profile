@@ -4,7 +4,7 @@ Hi 👋 My name is Türker Bayazıt
 Data Scince and Machine Learning
 --------------------------------
 
-I'm statistic student at Mimar Sinan Fine Arts University. I'm interested in machine learning,AI and deep learning. I've been studying on this subjects at three years and ı want to be a Data Scientist
+I'm statistics student at Mimar Sinan Fine Arts University. I'm interested in machine learning,AI and deep learning. I've been studying on this subjects at three years and ı want to be a Data Scientist
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [turkerbayazit@gmail.com](mailto:turkerbayazit@gmail.com)
