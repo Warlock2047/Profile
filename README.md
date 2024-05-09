@@ -8,7 +8,6 @@ I'm a Data Analyst specializing in machine learning, AI, and deep learning. I fo
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [turkerbayazit@gmail.com](mailto:turkerbayazit@gmail.com)
-* 🧠  I'm learning Deep Learning
 * ⚡  Think Different
 
 ### Skills
