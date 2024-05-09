@@ -4,7 +4,7 @@ Hi 👋 My name is Türker Bayazıt
 Data Scince and Machine Learning
 --------------------------------
 
-I'm Data Analyst. I'm working on machine learning,AI and deep learning,airflow pipelines.
+I'm a Data Analyst specializing in machine learning, AI, and deep learning. I focus on extracting valuable insights from complex datasets and optimizing business processes. I manage and automate ETL processes, ensuring efficient data extraction, transformation, and loading using tools like Airflow. Additionally, I work with cloud-based solutions for scalability and reliability. Ultimately, I leverage deep learning models to contribute to strategic decision-making and lead the development of data-driven strategies
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [turkerbayazit@gmail.com](mailto:turkerbayazit@gmail.com)
